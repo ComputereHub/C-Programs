@@ -197,3 +197,6 @@
 # ⭐ Golden Rule
 
 👉 Code + Practice + Repeat = Mastery
+
+## 🔗 Useful Link
+🔗 [पूरा ब्लॉग पढ़ें](https://www.computerehub.com/2024/11/c-notes-hindi.html)
