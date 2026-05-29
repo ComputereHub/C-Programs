@@ -14,7 +14,7 @@
 
 ### 1. If Else Basic
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/if-else-basic.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/if-else-basic.c)
 
 🧠 Explanation:
 यह program check करता है कि number positive है या negative।
@@ -28,7 +28,7 @@
 
 ### 2. Nested If
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/nested-if.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/nested-if.c)
 
 🧠 Explanation:
 यह program nested if का use करके positive even और positive odd number check करता है।
@@ -42,7 +42,7 @@
 
 ### 3. Switch Case Calculator
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/switch-case-calculator.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/switch-case-calculator.c)
 
 🧠 Explanation:
 यह calculator program switch-case का use करके addition, subtraction, multiplication और division करता है।
@@ -56,7 +56,7 @@
 
 ### 4. Grade System
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/grade-system.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/grade-system.c)
 
 🧠 Explanation:
 यह marks के आधार पर grade बताता है।
@@ -70,7 +70,7 @@
 
 ### 5. Leap Year
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/leap-year.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/leap-year.c)
 
 🧠 Explanation:
 यह check करता है कि year leap year है या नहीं।
@@ -88,7 +88,7 @@
 
 ### 6. Vowel Consonant
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/vowel-consonant.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/vowel-consonant.c)
 
 🧠 Explanation:
 यह program character को vowel या consonant check करता है।
@@ -102,7 +102,7 @@
 
 ### 7. Eligibility Check
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/eligibility-check.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/eligibility-check.c)
 
 🧠 Explanation:
 यह voting eligibility check करता है।
@@ -116,7 +116,7 @@
 
 ### 8. Profit Loss
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/profit-loss.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/profit-loss.c)
 
 🧠 Explanation:
 यह selling price और cost price के आधार पर profit या loss निकालता है।
@@ -130,7 +130,7 @@
 
 ### 9. Electricity Bill
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/electricity-bill.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/electricity-bill.c)
 
 🧠 Explanation:
 यह units के आधार पर electricity bill calculate करता है।
@@ -144,7 +144,7 @@
 
 ### 10. Marks Result
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/marks-result.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/marks-result.c)
 
 🧠 Explanation:
 यह program pass या fail check करता है।
@@ -162,7 +162,7 @@
 
 ### 11. Login System Basic
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/login-system-basic.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/login-system-basic.c)
 
 🧠 Explanation:
 यह simple password checking system है।
@@ -176,7 +176,7 @@
 
 ### 12. Traffic System
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/traffic-system.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/traffic-system.c)
 
 🧠 Explanation:
 यह traffic signal के अनुसार action बताता है।
@@ -190,7 +190,7 @@
 
 ### 13. Discount Calculation
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/discount-calculation.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/discount-calculation.c)
 
 🧠 Explanation:
 यह amount के आधार पर discount calculate करता है।
@@ -204,7 +204,7 @@
 
 ### 14. Largest Among N
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/largest-among-n.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/largest-among-n.c)
 
 🧠 Explanation:
 यह 3 numbers में सबसे बड़ा number निकालता है।
@@ -218,7 +218,7 @@
 
 ### 15. Number Comparison
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/number-comparison.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/number-comparison.c)
 
 🧠 Explanation:
 यह दो numbers को compare करता है।
@@ -236,7 +236,7 @@
 
 ### 16. Menu Driven Program
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/menu-driven-program.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/menu-driven-program.c)
 
 🧠 Explanation:
 यह menu के अनुसार option select करता है।
@@ -250,7 +250,7 @@
 
 ### 17. Odd Even Range
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/odd-even-range.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/odd-even-range.c)
 
 🧠 Explanation:
 यह range में even और odd numbers identify करता है।
@@ -264,7 +264,7 @@
 
 ### 18. Sign Check
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/sign-check.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/sign-check.c)
 
 🧠 Explanation:
 यह number का sign check करता है।
@@ -278,7 +278,7 @@
 
 ### 19. Salary Calculation
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/salary-calculation.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/salary-calculation.c)
 
 🧠 Explanation:
 यह salary और bonus जोड़कर total salary निकालता है।
@@ -292,7 +292,7 @@
 
 ### 20. Banking System Basic
 
-👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional/banking-system-basic.c)
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/conditional-statements/banking-system-basic.c)
 
 🧠 Explanation:
 यह simple withdraw system है जो balance check करता है।
