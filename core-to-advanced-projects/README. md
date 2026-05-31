@@ -1,0 +1,349 @@
+# Core to Advanced Projects in C
+
+## 📌 Introduction
+
+यह repository C Language के Core Concepts से लेकर Advanced Topics और Mini Projects तक सीखने के लिए बनाई गई है।
+
+इस section में Pointers, Structures, Unions, File Handling, Algorithms और Mini Projects शामिल हैं ताकि beginners से लेकर intermediate learners तक practical programming skills develop कर सकें।
+
+---
+
+## 🧠 आप क्या सीखेंगे
+
+* Pointers
+* Dynamic Memory Allocation
+* Structures & Unions
+* File Handling
+* Searching & Sorting
+* Time Complexity Basics
+* Debugging Techniques
+* Mini Projects Development
+
+---
+
+# 🟢 Level 1: Core Concepts
+
+---
+
+### 1. pointer-basics.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/pointer-basics.c)
+
+🧠 Explanation:
+
+यह program Pointer की basic working को समझाता है।
+
+✔ Concepts:
+
+* Pointer Variable
+* Address Operator (&)
+* Dereference Operator (*)
+
+---
+
+### 2. pointer-arithmetic.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/pointer-arithmetic.c)
+
+🧠 Explanation:
+
+यह Pointer Arithmetic को demonstrate करता है।
+
+✔ Concepts:
+
+* Pointer Increment
+* Array Traversal
+
+---
+
+### 3. dynamic-memory-basic.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/dynamic-memory-basic.c)
+
+🧠 Explanation:
+
+यह malloc() का उपयोग करके Dynamic Memory Allocate करता है।
+
+✔ Concepts:
+
+* malloc()
+* free()
+* Heap Memory
+
+---
+
+### 4. structure-basic.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/structure-basic.c)
+
+🧠 Explanation:
+
+यह Structure का basic example है।
+
+✔ Concepts:
+
+* Structure
+* User Defined Data Type
+
+---
+
+### 5. union-example.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/union-example.c)
+
+🧠 Explanation:
+
+यह Union की working को समझाता है।
+
+✔ Concepts:
+
+* Union
+* Shared Memory
+
+---
+
+### 6. enum-example.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/enum-example.c)
+
+🧠 Explanation:
+
+यह Enumeration का basic example है।
+
+✔ Concepts:
+
+* enum
+* Named Constants
+
+---
+
+# 🟡 Level 2: Advanced C Concepts
+
+---
+
+### 7. macro-define-program.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/macro-define-program.c)
+
+🧠 Explanation:
+
+यह #define Macro का उपयोग दिखाता है।
+
+✔ Concepts:
+
+* Macros
+* Preprocessor Directives
+
+---
+
+### 8. file-handling-basic.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/file-handling-basic.c)
+
+🧠 Explanation:
+
+यह File में data write करना सिखाता है।
+
+✔ Concepts:
+
+* fopen()
+* fprintf()
+* fclose()
+
+---
+
+### 9. sorting-algorithms-basic.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/sorting-algorithms-basic.c)
+
+🧠 Explanation:
+
+यह Bubble Sort का basic implementation है।
+
+✔ Concepts:
+
+* Sorting
+* Nested Loops
+
+---
+
+### 10. searching-algorithms-advanced.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/searching-algorithms-advanced.c)
+
+🧠 Explanation:
+
+यह Binary Search Algorithm का उपयोग करता है।
+
+✔ Concepts:
+
+* Binary Search
+* Divide and Conquer
+
+---
+
+### 11. recursion-vs-loop-comparison.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/recursion-vs-loop-comparison.c)
+
+🧠 Explanation:
+
+यह Recursion और Loop के बीच comparison दिखाता है।
+
+✔ Concepts:
+
+* Recursion
+* Iteration
+
+---
+
+### 12. complexity-intro.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/complexity-intro.c)
+
+🧠 Explanation:
+
+यह Time Complexity का basic introduction देता है।
+
+✔ Concepts:
+
+* O(n)
+* Performance Analysis
+
+---
+
+# 🔴 Level 3: Debugging & Optimization
+
+---
+
+### 13. debugging-examples.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/debugging-examples.c)
+
+🧠 Explanation:
+
+यह Common Programming Errors को समझने में मदद करता है।
+
+✔ Concepts:
+
+* Debugging
+* Error Detection
+
+---
+
+### 14. optimization-logic.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/optimization-logic.c)
+
+🧠 Explanation:
+
+यह Efficient Logic का basic example है।
+
+✔ Concepts:
+
+* Code Optimization
+* Better Performance
+
+---
+
+# 🟣 Level 4: Mini Projects
+
+---
+
+### 15. mini-project-calculator.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/mini-project-calculator.c)
+
+🧠 Explanation:
+
+यह Menu Driven Calculator Project है।
+
+✔ Concepts:
+
+* Switch Case
+* Arithmetic Operations
+
+---
+
+### 16. mini-project-bank-system.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/mini-project-bank-system.c)
+
+🧠 Explanation:
+
+यह Simple Banking System का Mini Project है।
+
+✔ Concepts:
+
+* Balance Management
+* Conditional Statements
+
+---
+
+### 17. mini-project-student-record.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/mini-project-student-record.c)
+
+🧠 Explanation:
+
+यह Student Record Management का basic project है।
+
+✔ Concepts:
+
+* Structures
+* Record Storage
+
+---
+
+### 18. mini-project-inventory.c
+
+👉 [Code देखें](https://github.com/ComputereHub/C-Programs/blob/main/core-to-advanced-projects/mini-project-inventory.c)
+
+🧠 Explanation:
+
+यह Inventory Management का simple project है।
+
+✔ Concepts:
+
+* Structures
+* Product Management
+
+---
+
+# C Programming Advanced Concepts in Hindi
+
+इस section में C Language के Advanced Topics जैसे Pointer, Dynamic Memory Allocation, Structures, File Handling और Mini Projects को आसान हिंदी में समझाया गया है।
+
+# 📖 Related Articles & Notes
+
+👉 [C Programming Notes in Hindi](https://www.computerehub.com/2024/11/c-notes-hindi.html)
+
+👉 [Structure in C in Hindi](https://www.computerehub.com/2024/04/structure-in-c.html)
+
+👉 [Dynamic Memory Allocation in C in Hindi](https://www.computerehub.com/2024/04/memory-allocation-c.html)
+
+👉 [File Handling in C in Hindi](https://www.computerehub.com/2024/04/file-handle-c.html)
+
+👉 [Array in C in Hindi](https://www.computerehub.com/2024/03/array-in-c.html)
+
+👉 [Conditional Statements in C in Hindi](https://www.computerehub.com/2024/02/conditionalstatements-in-c.html)---
+
+# 💯 Final Conclusion
+
+अगर आप ये सभी Programs और Mini Projects समझ लेते हैं तो:
+
+✔ C Programming Strong हो जाएगी
+
+✔ Pointers Clear हो जाएंगे
+
+✔ File Handling समझ आ जाएगी
+
+✔ Problem Solving Skills Improve होंगी
+
+✔ Real Projects बनाना आसान होगा
+
+✔ Data Structures और System Programming सीखने में मदद मिलेगी
+
+---
+
+⭐ Repository Helpful लगे तो Star जरूर दें.
