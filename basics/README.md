@@ -276,6 +276,49 @@ Variable की value increase और decrease करना सिखाता �
 
 ---
 
+# 📖 Learn More
+
+## C Notes in Hindi
+
+👉 [https://www.computerehub.com/2024/11/c-notes-hindi.html](https://www.computerehub.com/2024/11/c-notes-hindi.html)
+
+🧠 C Language के सभी Basic से Advanced Topics को हिंदी में सीखें।
+
+---
+
+## Input Output Function in C
+
+👉 [https://www.computerehub.com/2024/01/input-output-function.html](https://www.computerehub.com/2024/01/input-output-function.html)
+
+🧠 C language में input लेने और output दिखाने के लिए scanf() और printf() functions का उपयोग किया जाता है।
+
+---
+
+## Variables in C
+
+👉 [https://www.computerehub.com/2024/01/what-is-variable.html](https://www.computerehub.com/2024/01/what-is-variable.html)
+
+🧠 Variable memory location होता है जिसमें data store किया जाता है और उसकी value program में change की जा सकती है।
+
+---
+
+## Data Types in C
+
+👉 [https://www.computerehub.com/2024/02/c-data-types.html](https://www.computerehub.com/2024/02/c-data-types.html)
+
+🧠 Data types बताते हैं कि variable किस प्रकार का data store करेगा जैसे int, float, char आदि।
+
+---
+
+## Operators in C
+
+👉 [https://www.computerehub.com/2024/02/operators-in-c.html](https://www.computerehub.com/2024/02/operators-in-c.html)
+
+🧠 Operators का use mathematical और logical operations perform करने के लिए किया जाता है।
+
+---
+
+
 ## 💯 Conclusion
 यह roadmap beginners को strong foundation देता है ताकि वे आगे loops, arrays और functions आसानी से सीख सकें।
 
