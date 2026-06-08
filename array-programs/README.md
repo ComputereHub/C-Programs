@@ -321,15 +321,6 @@
 
 ---
 
-
-## Conditional Statements in C
-
-👉 [https://www.computerehub.com/2024/02/conditionalstatements-in-c.html](https://www.computerehub.com/2024/02/conditionalstatements-in-c.html)
-
-🧠 if, if-else, nested-if, else-if ladder और switch-case को आसान हिंदी में समझें।
-
----
-
 ## Loops in C
 
 👉 [https://www.computerehub.com/2024/03/loop-in-c.html](https://www.computerehub.com/2024/03/loop-in-c.html)
