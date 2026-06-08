@@ -331,6 +331,40 @@ Digits के factorial का sum अगर same number बने तो strong
 * loop progression
 
 ---
+# 📖 Learn More
+
+## C Notes in Hindi
+
+👉 [https://www.computerehub.com/2024/11/c-notes-hindi.html](https://www.computerehub.com/2024/11/c-notes-hindi.html)
+
+🧠 C Language के सभी Basic से Advanced Topics को हिंदी में सीखें।
+
+---
+## Loops in C
+
+👉 [https://www.computerehub.com/2024/03/loop-in-c.html](https://www.computerehub.com/2024/03/loop-in-c.html)
+
+🧠 for loop, while loop और do-while loop को examples सहित सीखें।
+
+---
+## Arrays in C
+
+👉 [https://www.computerehub.com/2024/03/array-in-c.html](https://www.computerehub.com/2024/03/array-in-c.html)
+
+🧠 Array declaration, initialization, traversal और array programs को हिंदी में सीखें।
+
+---
+
+
+## Conditional Statements in C
+
+👉 [https://www.computerehub.com/2024/02/conditionalstatements-in-c.html](https://www.computerehub.com/2024/02/conditionalstatements-in-c.html)
+
+🧠 if, if-else, nested-if, else-if ladder और switch-case को आसान हिंदी में समझें।
+
+---
+
+
 
 ## 💯 Conclusion
 
