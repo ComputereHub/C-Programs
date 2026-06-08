@@ -369,9 +369,34 @@ C Language में Function Overloading नहीं होती, इसल�
 
 ---
 
-# Functions in C in Hindi
+# 📖 Learn More
 
-इस section में C Language के Functions और Recursion के सभी महत्वपूर्ण concepts आसान हिंदी में समझाए गए हैं।
+## C Notes in Hindi
+
+👉 [https://www.computerehub.com/2024/11/c-notes-hindi.html](https://www.computerehub.com/2024/11/c-notes-hindi.html)
+
+🧠 C Language के सभी Basic से Advanced Topics को हिंदी में सीखें।
+
+---
+Functions in C
+
+👉 https://www.computerehub.com/2024/03/function-in-c.html
+🧠 Functions, parameters, return type और recursion को step-by-step समझें।
+
+---
+
+## Loops in C
+
+👉 [https://www.computerehub.com/2024/03/loop-in-c.html](https://www.computerehub.com/2024/03/loop-in-c.html)
+
+🧠 for loop, while loop और do-while loop को examples सहित सीखें।
+
+---
+## Arrays in C
+
+👉 [https://www.computerehub.com/2024/03/array-in-c.html](https://www.computerehub.com/2024/03/array-in-c.html)
+
+🧠 Array declaration, initialization, traversal और array programs को हिंदी में सीखें।
 
 ---
 
